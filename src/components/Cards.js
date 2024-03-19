@@ -12,7 +12,7 @@ function Cards() {
             <CardItem
               src="images/notesappjp.png"
               text="Notes App With Jetpack Compose"
-              label="kot"
+              label="Kotlin"
               path="https://github.com/murat-dayan/NotesAppJetpackCompose"
             />
             <CardItem
