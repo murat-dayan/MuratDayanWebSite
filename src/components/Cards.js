@@ -29,6 +29,12 @@ function Cards() {
               label="React-Native"
               path="https://github.com/murat-dayan/NoteTakingAppRNTypescript"
             />
+            <CardItem
+              src="images/alpersoraravci.jfif"
+              text="Quiz App About Space"
+              label="Flutter"
+              path="https://github.com/murat-dayan/AlperSorarAvci"
+            />
           </ul>
         </div>
       </div>
