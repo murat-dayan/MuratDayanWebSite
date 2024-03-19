@@ -12,7 +12,7 @@ function Cards() {
             <CardItem
               src="images/notesappjp.png"
               text="Notes App With Jetpack Compose"
-              label="Kotlin"
+              label="kot"
               path="https://github.com/murat-dayan/NotesAppJetpackCompose"
             />
             <CardItem
@@ -29,8 +29,6 @@ function Cards() {
               label="React-Native"
               path="https://github.com/murat-dayan/NoteTakingAppRNTypescript"
             />
-            
-            
           </ul>
         </div>
       </div>
