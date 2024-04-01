@@ -10,6 +10,7 @@ export default function Certificates() {
         image="images/jetpackcomposeudemysertifikasi.jpg"
         text="certificate"
       />
+      <ImageCard image="images/fluttercert.png" text="certificate" />
     </>
   );
 }
