@@ -1,3 +1,6 @@
+<h1 align="center" id="title">My Web Site</h1>
+<img src="https://github.com/murat-dayan/MuratDayanWebSite/assets/64108119/f761c45e-299e-4ee8-8acc-f2980bcf776c" alt="project-screenshot" width="1500" height="800/">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
