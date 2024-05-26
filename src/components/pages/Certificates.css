@@ -1,0 +1,15 @@
+.certificates-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .image-row {
+    display: flex;
+    flex-wrap: wrap; /* This allows elements to wrap onto multiple lines if needed */
+    justify-content: space-between; /* Distributes content evenly with spacing between items */
+  }
+  
+  .image-card {
+    /* Add styles for individual image cards here, if desired */
+    margin: 10px; /* Optional spacing around each image card */
+  }
