@@ -10,6 +10,34 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
+              src="images/img-lessonline.png"
+              text="Social Media App With Kotlin Mvvm"
+              label="Kotlin"
+              path="https://github.com/murat-dayan/LessOnline"
+            />
+            <CardItem
+              src="images/img-offlinenews.png"
+              text="Offline and online news app with Kotlin MVI"
+              label="Kotlin"
+              path="https://github.com/murat-dayan/Offline-News-App"
+            />
+          </ul>
+          <ul className="cards__items">
+            <CardItem
+              src="images/epasaj.jpg"
+              text="E commerce App With Mvvm "
+              label="Kotlin"
+              path="https://github.com/murat-dayan/E-Pasaj"
+            />
+            <CardItem
+              src="images/movieapp.png"
+              text="Movie App With Jetpack Compose With MVVM Pattern"
+              label="Kotlin"
+              path="https://github.com/murat-dayan/MovieApp"
+            />
+          </ul>
+          <ul className="cards__items">
+            <CardItem
               src="images/notesappjp.png"
               text="Notes App With Jetpack Compose"
               label="Kotlin"
