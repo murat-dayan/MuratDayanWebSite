@@ -23,7 +23,16 @@ function HeroSection() {
     <div className="hero-container">
       {/* <video src='/videos/video-1.mp4' autoPlay loop muted /> */}
       <h1>WELCOME</h1>
-      <p>I'm an android developer </p>
+
+      <p>I'm an Android developer </p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
+      <p></p>
       <div className="hero-btns">
         <Button
           className="btns"
