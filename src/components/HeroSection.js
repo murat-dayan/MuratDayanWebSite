@@ -12,7 +12,7 @@ function HeroSection() {
     const link = document.createElement("a");
     link.href = cvUrl;
     // Dosya adını ayarlayın
-    link.download = "muratdayancv.pdf";
+    link.download = "muratdayanresume.pdf";
     // Yeni sekmede açılması için target özelliğini belirtin
     link.target = "_blank";
     // A etiketini tıklayınca indirme işlemi başlatılır
